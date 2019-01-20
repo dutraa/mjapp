@@ -1,5 +1,5 @@
 name,id,race,flavors1,flavors2,flavors3,positiveeffects1,positiveeffects2,positiveeffects3,positiveeffects4,positiveeffects5,negativeeffects1,negativeeffects2,negativeeffects3,negativeeffects4,negativeeffects5,medicaleffects1,medicaleffects2,medicaleffects3,medicaleffects4,medicaleffects5,medicaleffects6
-Afpak,1,hybrid,Earthy,Chemical,Pine,Relaxed,Hungry,Happy,Sleepy,,Dizzy,,,,,Depression,Insomnia,Pain,Stress,Lack of Appetite,
+Afpak,1,hybrid,Earthy,Chemical,Pine,Relaxed,Hungry,Happy,Sleepy,,Dizzy,,,,Depression,Insomnia,Pain,Stress,Lack of Appetite,
 African,2,sativa,Spicy/Herbal,Pungent,Earthy,Euphoric,Happy,Creative,Energetic,Talkative,Dry Mouth,,,,,Depression,Pain,Stress,Lack of Appetite,Nausea,Headache
 Afternoon Delight,3,hybrid,Pepper,Flowery,Pine,Relaxed,Hungry,Euphoric,Uplifted,Tingly,Dizzy,Dry Mouth,Paranoid,,,Depression,Insomnia,Pain,Stress,Cramps,Headache
 Afwreck,4,hybrid,Pine,Earthy,Flowery,Relaxed,Happy,Creative,Uplifted,Sleepy,Dizzy,Dry Mouth,Paranoid,Dry Eyes,,Pain,Stress,Headache,Fatigue,Headaches,Muscle Spasms
@@ -189,7 +189,7 @@ Big Smooth,252,hybrid,Blueberry,Earthy,Pine,Happy,Creative,Tingly,Giggly,Aroused
 Big Sur Holy Bud,253,sativa,Pine,Woody,Earthy,Relaxed,Happy,Creative,Uplifted,Focused,,,,,,Depression,Stress,Nausea,Fatigue,Muscle Spasms,
 Big White,254,indica,Flowery,Diesel,Earthy,Relaxed,Uplifted,Sleepy,,,Dry Mouth,Paranoid,Dry Eyes,,,Depression,Insomnia,Pain,Stress,Lack of Appetite,Headache
 Big Wreck,255,indica,Earthy,Pungent,Sweet,Relaxed,Euphoric,Happy,Uplifted,Sleepy,Dizzy,Dry Mouth,Dry Eyes,Anxious,,Depression,Insomnia,Stress,Headache,Fatigue,Muscle Spasms
-Biker Le’Blanc,256,hybrid,Earthy,Sage,Spicy/Herbal,Relaxed,Euphoric,Energetic,Focused,Aroused,,,,,,Cramps,,,,,
+Biker LeÂ’Blanc,256,hybrid,Earthy,Sage,Spicy/Herbal,Relaxed,Euphoric,Energetic,Focused,Aroused,,,,,,Cramps,,,,,
 Bio-Diesel,257,hybrid,Diesel,Pungent,Earthy,Relaxed,Euphoric,Happy,Energetic,Uplifted,Dizzy,Dry Mouth,Paranoid,Dry Eyes,,Depression,Insomnia,Pain,Stress,Nausea,Headache
 Bio-Jesus,258,hybrid,Earthy,Flowery,Chemical,Relaxed,Euphoric,Happy,Uplifted,Sleepy,Dizzy,Dry Mouth,Paranoid,Dry Eyes,,Depression,Insomnia,Pain,Stress,Headache,Muscle Spasms
 Biochem,259,indica,Spicy/Herbal,Skunk,Earthy,Relaxed,Hungry,Euphoric,Sleepy,Aroused,,,,,,Depression,Insomnia,Stress,Lack of Appetite,Fatigue,
@@ -624,7 +624,7 @@ Dream Lotus,719,hybrid,Spicy/Herbal,Woody,Apple,Relaxed,Euphoric,Happy,Uplifted,
 Dream Police,720,hybrid,Earthy,Berry,,Relaxed,Happy,Energetic,Uplifted,Aroused,,,,,,Depression,Insomnia,Pain,Stress,Inflammation,
 Dream Queen,721,hybrid,Sweet,Flowery,Earthy,Relaxed,Euphoric,Happy,Uplifted,Aroused,Dizzy,Dry Mouth,Paranoid,Dry Eyes,Anxious,Depression,Insomnia,Pain,Stress,Headaches,
 Dream Star,722,hybrid,Earthy,Pungent,Sage,Euphoric,Happy,Creative,Talkative,Uplifted,Dry Mouth,Paranoid,Dry Eyes,,,Insomnia,Pain,Stress,Lack of Appetite,Nausea,
-Dreamer’s Glass,723,hybrid,Earthy,Skunk,Sweet,Relaxed,Hungry,Creative,Talkative,Uplifted,Dry Mouth,Paranoid,Anxious,,,Depression,Lack of Appetite,Fatigue,Seizures,Muscle Spasms,
+DreamerÂ’s Glass,723,hybrid,Earthy,Skunk,Sweet,Relaxed,Hungry,Creative,Talkative,Uplifted,Dry Mouth,Paranoid,Anxious,,,Depression,Lack of Appetite,Fatigue,Seizures,Muscle Spasms,
 Drizella,724,sativa,Earthy,Pungent,Sweet,Euphoric,Happy,Energetic,Uplifted,Giggly,,,,,,Depression,Stress,Cramps,Fatigue,Headaches,
 Duke Nukem,725,hybrid,Sweet,Pungent,Flowery,Happy,Creative,Energetic,Uplifted,Focused,Dizzy,Dry Mouth,Dry Eyes,,,Depression,Pain,Stress,Lack of Appetite,Headache,Fatigue
 Durban Berry,726,hybrid,Berry,Blueberry,Pine,Relaxed,Happy,Creative,Energetic,Focused,,,,,,Depression,Stress,Lack of Appetite,Headaches,Eye Pressure,
@@ -661,7 +661,7 @@ Ed Rosenthal Super Bud,756,hybrid,Earthy,Pine,Citrus,Relaxed,Euphoric,Energetic,
 Edelweiss,757,indica,Sweet,Berry,Lime,Relaxed,Hungry,Happy,Sleepy,,Dizzy,Dry Mouth,Paranoid,Dry Eyes,,Depression,Pain,Stress,Nausea,Headache,Fatigue
 El Chapo OG,758,indica,Earthy,Flowery,Citrus,Relaxed,Euphoric,Happy,Uplifted,Sleepy,Dry Eyes,,,,,Insomnia,Pain,Stress,Headache,Inflammation,Muscle Spasms
 El Jefe,759,indica,Earthy,Pungent,Pine,Relaxed,Euphoric,Creative,Tingly,Sleepy,Dizzy,Dry Mouth,Paranoid,Dry Eyes,,Depression,Insomnia,Pain,Stress,Headache,Headaches
-El Niño,760,hybrid,Earthy,Woody,Pungent,Relaxed,Happy,Talkative,Uplifted,Sleepy,Dizzy,Dry Mouth,Paranoid,Dry Eyes,,Insomnia,Pain,Stress,Lack of Appetite,Nausea,Headache
+El NiÃ±o,760,hybrid,Earthy,Woody,Pungent,Relaxed,Happy,Talkative,Uplifted,Sleepy,Dizzy,Dry Mouth,Paranoid,Dry Eyes,,Insomnia,Pain,Stress,Lack of Appetite,Nausea,Headache
 El-Na,761,hybrid,Earthy,Pine,Pungent,Relaxed,Happy,Tingly,Aroused,,,,,,,Insomnia,Cramps,Headaches,Inflammation,Muscle Spasms,
 Elderberry Kush,762,hybrid,Woody,Pungent,Earthy,Relaxed,Hungry,Happy,Sleepy,Giggly,,,,,,Pain,Lack of Appetite,Fatigue,Eye Pressure,Muscle Spasms,
 Electric Black Mamba,763,indica,Earthy,Pine,,Relaxed,Euphoric,Creative,Uplifted,Sleepy,Dry Eyes,,,,,Pain,Stress,,,,
@@ -708,7 +708,7 @@ Four Cups,807,hybrid,Earthy,Diesel,Pungent,Euphoric,Happy,Energetic,Focused,Arou
 Four Star General,808,hybrid,Diesel,Earthy,Flowery,Relaxed,Hungry,Euphoric,Happy,Sleepy,,,,,,,,,,,
 Frank's Gift,810,hybrid,Earthy,Chemical,Pine,Relaxed,Hungry,Euphoric,Happy,Giggly,Dizzy,Paranoid,Dry Eyes,Anxious,,Depression,Pain,Stress,Nausea,Headache,Fatigue
 Frankenstein,811,indica,Earthy,Skunk,Citrus,Relaxed,Euphoric,Happy,Talkative,Sleepy,Dry Mouth,,,,,Insomnia,Pain,Stress,Lack of Appetite,Muscle Spasms,
-Fred Flipn’ Stoned,812,indica,Chestnut,Earthy,Pine,Relaxed,Hungry,Euphoric,Happy,,Dizzy,Dry Mouth,,,,Depression,Stress,Fatigue,Headaches,Inflammation,
+Fred FlipnÂ’ Stoned,812,indica,Chestnut,Earthy,Pine,Relaxed,Hungry,Euphoric,Happy,,Dizzy,Dry Mouth,,,,Depression,Stress,Fatigue,Headaches,Inflammation,
 Freezeland,813,indica,Sweet,Orange,Pine,Relaxed,Happy,Sleepy,Giggly,,Dry Mouth,Paranoid,Dry Eyes,Anxious,,Depression,Insomnia,Stress,Lack of Appetite,Headache,Fatigue
 Frida,814,indica,Lemon,Citrus,Sweet,Relaxed,Happy,Creative,Uplifted,Sleepy,Anxious,,,,,Insomnia,Pain,Stress,Fatigue,Inflammation,
 Frisian Dew,815,hybrid,Woody,Pine,Earthy,Relaxed,Euphoric,Happy,Tingly,Giggly,Dizzy,Dry Mouth,Paranoid,Dry Eyes,Anxious,Depression,Pain,Stress,Lack of Appetite,Inflammation,
@@ -772,8 +772,8 @@ Godfather OG,875,indica,Earthy,Woody,Pine,Relaxed,Hungry,Euphoric,Happy,Sleepy,D
 Godfather Purple Kush,876,indica,Berry,Grape,Spicy/Herbal,Relaxed,Euphoric,Happy,Talkative,Sleepy,,,,,,Insomnia,Pain,Stress,Headaches,Inflammation,
 Godzilla,877,indica,Earthy,Berry,Diesel,Relaxed,Euphoric,Happy,Sleepy,,Dry Mouth,,,,,Depression,Insomnia,Pain,Stress,Inflammation,
 Godzilla Glue,878,hybrid,Earthy,Sweet,Citrus,Relaxed,Euphoric,Happy,Creative,Uplifted,,,,,,Depression,Pain,Stress,Nausea,Headaches,
-God’s Bubba,879,indica,Earthy,Woody,Pungent,Relaxed,Euphoric,Happy,Creative,Tingly,Dry Mouth,Dry Eyes,,,,Insomnia,Pain,Cramps,Lack of Appetite,Headaches,
-God’s Treat,880,indica,Blueberry,Diesel,Earthy,Relaxed,Euphoric,Happy,Talkative,Uplifted,,,,,,Pain,Stress,Cramps,Inflammation,Muscle Spasms,
+GodÂ’s Bubba,879,indica,Earthy,Woody,Pungent,Relaxed,Euphoric,Happy,Creative,Tingly,Dry Mouth,Dry Eyes,,,,Insomnia,Pain,Cramps,Lack of Appetite,Headaches,
+GodÂ’s Treat,880,indica,Blueberry,Diesel,Earthy,Relaxed,Euphoric,Happy,Talkative,Uplifted,,,,,,Pain,Stress,Cramps,Inflammation,Muscle Spasms,
 Gog & Magog,881,indica,Earthy,Pungent,Citrus,Relaxed,Hungry,Sleepy,,,Dizzy,Dry Mouth,,,,Insomnia,Pain,Lack of Appetite,Nausea,Headaches,
 Goji Diesel,882,hybrid,Diesel,,,Relaxed,Euphoric,Creative,Uplifted,Focused,,,,,,Depression,Stress,Cramps,Fatigue,Headaches,
 Goji OG,883,hybrid,Berry,Sweet,Earthy,Relaxed,Euphoric,Happy,Energetic,Uplifted,Dizzy,Dry Mouth,Paranoid,Dry Eyes,Anxious,Depression,Insomnia,Pain,Stress,Fatigue,
@@ -800,9 +800,9 @@ Grand Doggy Purps,904,indica,Grape,Sweet,Earthy,Relaxed,Hungry,Euphoric,Happy,,D
 Grand Hindu,905,indica,Grape,Earthy,Diesel,Relaxed,Euphoric,Happy,Sleepy,,Dizzy,Dry Mouth,,,,Depression,Pain,Stress,Headaches,Eye Pressure,
 Grand Hustle,906,hybrid,Honey,Earthy,Citrus,Relaxed,Euphoric,Uplifted,Focused,Giggly,Dizzy,Dry Mouth,Paranoid,Dry Eyes,,Depression,Insomnia,Stress,Lack of Appetite,Fatigue,
 Granddaddy Purple,907,indica,Berry,Grape,Sweet,Relaxed,Hungry,Euphoric,Happy,Sleepy,Dizzy,Dry Mouth,Paranoid,Dry Eyes,,Depression,Insomnia,Pain,Stress,Lack of Appetite,Headache
-Grandma’s Batch,908,hybrid,Butter,Earthy,Pungent,Euphoric,Happy,Giggly,,,Dry Mouth,Dry Eyes,,,,,,,,,
+GrandmaÂ’s Batch,908,hybrid,Butter,Earthy,Pungent,Euphoric,Happy,Giggly,,,Dry Mouth,Dry Eyes,,,,,,,,,
 Grandpa Larry OG,909,indica,Berry,Grape,Spicy/Herbal,Relaxed,Euphoric,Happy,Uplifted,,Dry Mouth,,,,,Depression,Insomnia,Pain,Stress,Inflammation,
-Grandpa’s Breath,910,indica,Earthy,Apricot,Diesel,Relaxed,Euphoric,Creative,Uplifted,Sleepy,,,,,,Insomnia,Stress,,,,
+GrandpaÂ’s Breath,910,indica,Earthy,Apricot,Diesel,Relaxed,Euphoric,Creative,Uplifted,Sleepy,,,,,,Insomnia,Stress,,,,
 Grape Ape,911,indica,Grape,Sweet,Berry,Relaxed,Euphoric,Happy,Uplifted,Sleepy,Dizzy,Dry Mouth,Dry Eyes,Anxious,,Depression,Insomnia,Pain,Stress,Headache,Inflammation
 Grape Calyx,912,hybrid,Grape,Sweet,Earthy,Relaxed,Hungry,Euphoric,Happy,Creative,Dry Mouth,,,,,Pain,Stress,Lack of Appetite,Fatigue,Headaches,
 Grape Cookies,913,indica,Grape,Berry,Sweet,Relaxed,Euphoric,Happy,Uplifted,Sleepy,,,,,,Depression,Insomnia,Pain,Stress,Lack of Appetite,
@@ -858,7 +858,7 @@ Gupta Kush,965,hybrid,Sweet,Earthy,Woody,Relaxed,Hungry,Happy,Sleepy,Aroused,,,,
 Guptilla,966,hybrid,Grape,Citrus,Sweet,Euphoric,Happy,Uplifted,Sleepy,Focused,,,,,,Depression,Insomnia,Pain,Stress,Inflammation,
 Gutbuster,967,indica,Berry,,,Relaxed,Creative,Giggly,,,Paranoid,Anxious,,,,Insomnia,Pain,Stress,Muscle Spasms,,
 Hades Haze,968,indica,Earthy,Minty,Woody,Relaxed,Hungry,Euphoric,Giggly,,Dry Eyes,,,,,Depression,Insomnia,Pain,Lack of Appetite,Fatigue,
-Haleigh’s Hope,969,hybrid,Earthy,Pine,Pungent,Relaxed,Euphoric,Happy,Talkative,Uplifted,Dry Mouth,Dry Eyes,,,,Pain,Stress,Headaches,Inflammation,Muscle Spasms,
+HaleighÂ’s Hope,969,hybrid,Earthy,Pine,Pungent,Relaxed,Euphoric,Happy,Talkative,Uplifted,Dry Mouth,Dry Eyes,,,,Pain,Stress,Headaches,Inflammation,Muscle Spasms,
 Haole,971,hybrid,Sweet,Pungent,Honey,Relaxed,Euphoric,Happy,Creative,Uplifted,Dry Mouth,Dry Eyes,,,,Pain,Stress,Fatigue,Headaches,Inflammation,
 Haoma,972,indica,Citrus,Earthy,Flowery,Relaxed,Hungry,Happy,Sleepy,,Dry Mouth,Dry Eyes,,,,Depression,Insomnia,Stress,Headaches,Inflammation,
 Haoma Mist,973,hybrid,Sweet,Flowery,Citrus,Relaxed,Euphoric,Happy,Uplifted,Tingly,Dizzy,Dry Mouth,Dry Eyes,,,Depression,Pain,Stress,Lack of Appetite,Headache,Inflammation
@@ -888,7 +888,7 @@ Hawaiian Skunk,997,hybrid,Sweet,Earthy,Woody,Euphoric,Happy,Creative,Energetic,U
 Hawaiian Snow,998,sativa,Tropical,Sweet,Flowery,Euphoric,Happy,Creative,Energetic,Uplifted,Dizzy,Dry Mouth,Paranoid,Dry Eyes,Anxious,Depression,Insomnia,Pain,Stress,Fatigue,
 Hawaiian Sunrise,999,hybrid,Citrus,Lemon,Flowery,Relaxed,Euphoric,Happy,Uplifted,Tingly,Dry Mouth,Dry Eyes,Anxious,,,Depression,Insomnia,Stress,Fatigue,Headaches,
 Hawaiian Thunder Fuck,1000,hybrid,Sweet,Berry,Pungent,Relaxed,Euphoric,Happy,Talkative,,Dry Mouth,Paranoid,,,,Depression,Insomnia,Pain,Stress,Nausea,Headache
-Hawai’i ‘78,1001,sativa,Flowery,Pineapple,Sweet,Relaxed,Euphoric,Happy,Creative,Aroused,,,,,,,,,,,
+HawaiÂ’i Â‘78,1001,sativa,Flowery,Pineapple,Sweet,Relaxed,Euphoric,Happy,Creative,Aroused,,,,,,,,,,,
 Haze,1002,sativa,Earthy,Sweet,Woody,Euphoric,Happy,Creative,Energetic,Uplifted,Dizzy,Dry Mouth,Paranoid,Dry Eyes,Anxious,Depression,Pain,Stress,Lack of Appetite,Fatigue,
 Haze Berry,1003,sativa,Sweet,Blueberry,Berry,Relaxed,Happy,Energetic,Uplifted,Giggly,Dizzy,Dry Mouth,Paranoid,Dry Eyes,Anxious,Depression,Pain,Stress,Cramps,Fatigue,
 Haze Heaven,1004,hybrid,Pungent,Spicy/Herbal,Blueberry,Happy,Creative,Energetic,Talkative,Uplifted,Dry Mouth,Anxious,,,,Depression,Pain,Stress,Fatigue,Inflammation,
@@ -1000,7 +1000,7 @@ Jet Fuel,1115,hybrid,Diesel,Earthy,Pungent,Relaxed,Happy,Energetic,Uplifted,Focu
 Jillybean,1117,hybrid,Citrus,Sweet,Orange,Euphoric,Happy,Creative,Energetic,Uplifted,Dizzy,Dry Mouth,Paranoid,Dry Eyes,,Depression,Pain,Stress,Lack of Appetite,Headache,Fatigue
 Jimi Hendrix,1118,hybrid,Citrus,Earthy,Sweet,Relaxed,Euphoric,Happy,Creative,Uplifted,Anxious,,,,,Depression,Stress,Cramps,Lack of Appetite,Nausea,
 Jock Horror,1119,sativa,Berry,Earthy,Sweet,Hungry,Euphoric,Happy,Energetic,Aroused,Dizzy,Dry Mouth,Dry Eyes,Anxious,,Depression,Insomnia,Stress,Lack of Appetite,Fatigue,
-Johnny’s Tonic,1120,sativa,Flowery,Skunk,Pungent,Relaxed,Hungry,Euphoric,Happy,Tingly,Dry Eyes,,,,,Pain,Cramps,Nausea,Fatigue,Inflammation,
+JohnnyÂ’s Tonic,1120,sativa,Flowery,Skunk,Pungent,Relaxed,Hungry,Euphoric,Happy,Tingly,Dry Eyes,,,,,Pain,Cramps,Nausea,Fatigue,Inflammation,
 Jolly Rancher,1121,hybrid,Sweet,Pungent,Flowery,Relaxed,Euphoric,Happy,Tingly,Giggly,Dry Mouth,Dry Eyes,,,,Depression,Pain,Stress,Nausea,Headaches,
 Josh D OG,1122,indica,Berry,Blueberry,Blue Cheese,Aroused,,,,,Paranoid,Anxious,,,,Depression,Cramps,Fatigue,,,
 Jr,1123,indica,Earthy,Pungent,Sweet,Relaxed,Euphoric,Happy,Uplifted,Sleepy,Dizzy,Dry Mouth,Paranoid,Dry Eyes,Anxious,Depression,Insomnia,Pain,Stress,Lack of Appetite,
@@ -1027,11 +1027,11 @@ Kali Dog,1144,hybrid,Citrus,Earthy,Lemon,Relaxed,Happy,Energetic,Uplifted,Sleepy
 Kali Mist,1145,sativa,Earthy,Citrus,Sweet,Happy,Creative,Energetic,Uplifted,Focused,Dry Mouth,Paranoid,Dry Eyes,Anxious,,Depression,Pain,Stress,Headache,Fatigue,Muscle Spasms
 Kandahar,1146,indica,Earthy,Apricot,Honey,Relaxed,Euphoric,Sleepy,Giggly,,Dizzy,Dry Mouth,,,,Depression,Insomnia,Pain,Stress,,
 Kandy Kush,1147,hybrid,Sweet,Citrus,Lemon,Relaxed,Euphoric,Happy,Creative,Uplifted,Dizzy,Dry Mouth,Paranoid,Dry Eyes,,Depression,Insomnia,Pain,Stress,Headache,Fatigue
-Kaptn’s Grand Dream,1148,hybrid,Ammonia,Blueberry,Earthy,Relaxed,Euphoric,Happy,Uplifted,Giggly,Dry Mouth,Paranoid,Dry Eyes,Anxious,,Depression,Insomnia,Cramps,Lack of Appetite,Headache,Headaches
+KaptnÂ’s Grand Dream,1148,hybrid,Ammonia,Blueberry,Earthy,Relaxed,Euphoric,Happy,Uplifted,Giggly,Dry Mouth,Paranoid,Dry Eyes,Anxious,,Depression,Insomnia,Cramps,Lack of Appetite,Headache,Headaches
 Karma Bitch,1149,hybrid,Coffee,Earthy,Tea,Relaxed,Happy,Creative,Uplifted,Focused,Dizzy,Dry Mouth,Dry Eyes,,,Depression,Pain,Stress,Lack of Appetite,Spasticity,
 Katsu Bubba Kush,1150,indica,Pungent,Grape,Plum,Relaxed,Euphoric,Happy,Tingly,,Dizzy,Dry Mouth,,,,Depression,Insomnia,Pain,Stress,Lack of Appetite,
 Katsu Kush,1151,indica,Earthy,Sweet,Berry,Relaxed,Euphoric,Happy,Sleepy,Giggly,Dry Mouth,Paranoid,Dry Eyes,,,Depression,Insomnia,Pain,Stress,Headache,Muscle Spasms
-Kaua’i Electric,1152,sativa,Orange,Tree Fruit,Sweet,Happy,Creative,Energetic,Uplifted,Focused,,,,,,Depression,Pain,Stress,Lack of Appetite,Fatigue,
+KauaÂ’i Electric,1152,sativa,Orange,Tree Fruit,Sweet,Happy,Creative,Energetic,Uplifted,Focused,,,,,,Depression,Pain,Stress,Lack of Appetite,Fatigue,
 Kelly Hill Gold,1153,indica,Earthy,Pepper,Coffee,Euphoric,Happy,Energetic,Talkative,Aroused,Dry Mouth,Dry Eyes,,,,Pain,Stress,Cramps,Inflammation,Muscle Spasms,
 Ken's Kush,1154,hybrid,Berry,Blueberry,Earthy,Relaxed,Euphoric,Happy,Focused,Giggly,Dry Mouth,,,,,Depression,Insomnia,Pain,Stress,Fatigue,
 Kerala Krush,1155,sativa,Mango,Sweet,Orange,Relaxed,Hungry,Happy,Energetic,Focused,,,,,,Depression,Cramps,Nausea,Fatigue,,
@@ -1236,8 +1236,8 @@ Misty Kush,1371,indica,Sweet,Mango,Lemon,Relaxed,Euphoric,Happy,Talkative,Uplift
 Misty Morning,1372,hybrid,Pine,Spicy/Herbal,,Relaxed,Euphoric,Sleepy,,,Dry Eyes,,,,,Depression,Stress,Headaches,Inflammation,,
 Mob Boss,1373,hybrid,Citrus,Earthy,Sweet,Relaxed,Euphoric,Happy,Creative,Energetic,Dizzy,Dry Mouth,Paranoid,Dry Eyes,Anxious,Depression,Insomnia,Pain,Stress,Lack of Appetite,
 Moby Dick,1374,sativa,Citrus,Earthy,Sweet,Relaxed,Euphoric,Happy,Energetic,Uplifted,Dizzy,Dry Mouth,Paranoid,Dry Eyes,,Depression,Pain,Stress,Nausea,Headache,Fatigue
-Moloka’i Frost,1375,indica,Earthy,Pungent,Tropical,Relaxed,Euphoric,Happy,Creative,Uplifted,,,,,,Depression,Pain,Stress,Cramps,Inflammation,
-Moloka’i Purpz,1376,indica,Berry,Grape,Plum,Relaxed,Euphoric,Creative,Tingly,Aroused,,,,,,,,,,,
+MolokaÂ’i Frost,1375,indica,Earthy,Pungent,Tropical,Relaxed,Euphoric,Happy,Creative,Uplifted,,,,,,Depression,Pain,Stress,Cramps,Inflammation,
+MolokaÂ’i Purpz,1376,indica,Berry,Grape,Plum,Relaxed,Euphoric,Creative,Tingly,Aroused,,,,,,,,,,,
 Money Maker,1377,indica,Earthy,Pungent,Berry,Relaxed,Hungry,Euphoric,Happy,Sleepy,Dizzy,Dry Mouth,Paranoid,,,Depression,Insomnia,Pain,Stress,Lack of Appetite,
 Monkey Paw,1378,hybrid,Earthy,Spicy/Herbal,Skunk,Relaxed,Happy,Creative,Uplifted,Giggly,Dry Mouth,,,,,Depression,Pain,Stress,Lack of Appetite,Headaches,
 Monolith,1379,indica,Pungent,Earthy,Pine,Relaxed,Euphoric,Happy,Sleepy,Focused,,,,,,Depression,Insomnia,Pain,Stress,Lack of Appetite,
@@ -1255,8 +1255,8 @@ Motavation,1391,indica,Pungent,Flowery,Sweet,Relaxed,Creative,Sleepy,Giggly,,Diz
 Mother Tongue,1392,sativa,Berry,Tropical,Sweet,Euphoric,Happy,Creative,Energetic,Focused,,,,,,Insomnia,Pain,Stress,Headaches,Inflammation,
 Mother of Berries,1393,indica,Berry,Blueberry,Sweet,Relaxed,Euphoric,Happy,Tingly,Sleepy,Dizzy,Dry Mouth,Dry Eyes,Anxious,,Depression,Insomnia,Pain,Stress,Lack of Appetite,Headache
 Mother's Milk,1394,hybrid,Earthy,Vanilla,Sweet,Relaxed,Euphoric,Happy,Sleepy,,Dry Mouth,,,,,Depression,Pain,Stress,Headaches,Muscle Spasms,
-Mother’s Finest,1395,sativa,Lemon,Pine,Sweet,Happy,Creative,Energetic,Uplifted,Aroused,Dizzy,Dry Mouth,,,,Depression,Pain,Stress,Cramps,Inflammation,
-Mother’s Helper,1396,hybrid,Sweet,Earthy,Berry,Relaxed,Happy,Creative,Energetic,Uplifted,Dry Mouth,Dry Eyes,Anxious,,,Depression,Pain,Stress,Headache,Fatigue,Headaches
+MotherÂ’s Finest,1395,sativa,Lemon,Pine,Sweet,Happy,Creative,Energetic,Uplifted,Aroused,Dizzy,Dry Mouth,,,,Depression,Pain,Stress,Cramps,Inflammation,
+MotherÂ’s Helper,1396,hybrid,Sweet,Earthy,Berry,Relaxed,Happy,Creative,Energetic,Uplifted,Dry Mouth,Dry Eyes,Anxious,,,Depression,Pain,Stress,Headache,Fatigue,Headaches
 Mountain Girl,1397,hybrid,Earthy,Skunk,Sweet,Relaxed,Happy,Creative,Talkative,Uplifted,,,,,,Depression,Stress,,,,
 Mr. Nice,1398,indica,Earthy,Sweet,Pungent,Relaxed,Hungry,Euphoric,Happy,Sleepy,Dizzy,Dry Mouth,Paranoid,Dry Eyes,,Depression,Insomnia,Pain,Stress,Headache,Headaches
 Mr. Tusk,1399,hybrid,Citrus,Earthy,Flowery,Relaxed,Happy,Creative,Giggly,Aroused,Dry Mouth,,,,,,,,,,
@@ -1302,7 +1302,7 @@ Nova,1442,indica,Berry,Earthy,Pine,Relaxed,Euphoric,Creative,,,,,,,,Depression,I
 Nuggetry OG,1443,indica,Earthy,Pungent,,Relaxed,Hungry,Happy,Tingly,Giggly,Dizzy,Dry Mouth,Paranoid,Dry Eyes,,Depression,Insomnia,Pain,Stress,Nausea,Headache
 Nuken,1444,indica,Earthy,Sweet,Spicy/Herbal,Relaxed,Euphoric,Happy,Uplifted,Giggly,Dizzy,Dry Mouth,Dry Eyes,Anxious,,Depression,Insomnia,Pain,Stress,Lack of Appetite,Headache
 Nurse Jackie,1445,sativa,Lemon,Pine,Chemical,Relaxed,Euphoric,Happy,Energetic,Uplifted,Dry Mouth,,,,,Depression,Pain,Stress,Headaches,Inflammation,
-OCA’s Cloud 9,1447,hybrid,Citrus,Sweet,Earthy,Euphoric,Happy,Creative,Energetic,Uplifted,Dry Mouth,,,,,Pain,Stress,Fatigue,,,
+OCAÂ’s Cloud 9,1447,hybrid,Citrus,Sweet,Earthy,Euphoric,Happy,Creative,Energetic,Uplifted,Dry Mouth,,,,,Pain,Stress,Fatigue,,,
 OCD,1448,sativa,Tar,,,Creative,Energetic,Focused,Giggly,Aroused,Dizzy,Dry Mouth,Paranoid,Dry Eyes,,Depression,Pain,Stress,Fatigue,Seizures,
 OG #18,1449,hybrid,Earthy,Diesel,Pine,Relaxed,Euphoric,Happy,Sleepy,,Dizzy,Dry Mouth,Paranoid,Dry Eyes,,Depression,Insomnia,Pain,Stress,Nausea,Headache
 OG Cheese,1450,hybrid,Cheese,Earthy,Sweet,Relaxed,Happy,Uplifted,Giggly,,Dizzy,Dry Mouth,Dry Eyes,,,Depression,Stress,Lack of Appetite,Headache,Headaches,Eye Pressure
@@ -1357,7 +1357,7 @@ Oregon Pineapple,1500,hybrid,Pineapple,Sweet,Cheese,Relaxed,Happy,Creative,Uplif
 Oregon Pinot Noir,1501,sativa,Grape,Earthy,Minty,Relaxed,Hungry,Happy,Creative,Energetic,,,,,,Insomnia,Pain,Stress,Lack of Appetite,Nausea,
 Organic Diesel,1502,hybrid,Diesel,Pungent,Tobacco,Happy,Energetic,Talkative,Uplifted,Focused,Dizzy,Dry Mouth,Paranoid,Dry Eyes,,Depression,Pain,Stress,Nausea,Headaches,
 Ortega,1503,indica,Spicy/Herbal,Pepper,Sweet,Relaxed,Euphoric,Sleepy,,,Dry Mouth,Dry Eyes,,,,Depression,Pain,Stress,Cramps,Nausea,
-Oteil’s Egyptian Kush,1504,hybrid,Earthy,Sweet,Pungent,Relaxed,Hungry,Euphoric,Happy,Creative,Dry Mouth,Dry Eyes,,,,Depression,Pain,Stress,Lack of Appetite,Muscle Spasms,
+OteilÂ’s Egyptian Kush,1504,hybrid,Earthy,Sweet,Pungent,Relaxed,Hungry,Euphoric,Happy,Creative,Dry Mouth,Dry Eyes,,,,Depression,Pain,Stress,Lack of Appetite,Muscle Spasms,
 Outer Space,1505,sativa,Sweet,Citrus,Earthy,Euphoric,Happy,Creative,Energetic,Uplifted,Dry Mouth,Dry Eyes,,,,Depression,Pain,Stress,Nausea,Fatigue,
 Outlaw,1506,sativa,Earthy,Spicy/Herbal,Woody,Euphoric,Creative,Energetic,Uplifted,Focused,Dry Eyes,,,,,Depression,Pain,Stress,Cramps,Fatigue,
 P-51,1507,indica,Earthy,Flowery,Spicy/Herbal,Relaxed,Happy,Uplifted,Tingly,Giggly,Dizzy,Dry Mouth,Paranoid,Dry Eyes,,Insomnia,Pain,Stress,Nausea,Headache,Eye Pressure
@@ -1443,7 +1443,7 @@ Pre-98 Bubba Kush,1593,indica,Earthy,Coffee,Pine,Relaxed,Hungry,Euphoric,Happy,S
 Predator Pink,1594,hybrid,Earthy,Sweet,Berry,Relaxed,Hungry,Euphoric,Happy,,Dizzy,Dry Mouth,Dry Eyes,,,Depression,Stress,Cramps,Nausea,Muscle Spasms,
 Presidential OG,1595,indica,Earthy,Pine,Woody,Relaxed,Euphoric,Happy,Uplifted,Sleepy,Dizzy,Dry Mouth,Paranoid,Dry Eyes,,Depression,Insomnia,Pain,Stress,Headache,Headaches
 Primus,1596,indica,Sweet,Citrus,Pungent,Relaxed,Euphoric,Happy,Uplifted,,Dry Mouth,Dry Eyes,,,,Depression,Insomnia,Pain,Stress,Lack of Appetite,
-Princess’s Tiara,1597,hybrid,Earthy,Sweet,,Happy,Energetic,Talkative,Uplifted,Giggly,,,,,,Depression,Stress,Fatigue,,,
+PrincessÂ’s Tiara,1597,hybrid,Earthy,Sweet,,Happy,Energetic,Talkative,Uplifted,Giggly,,,,,,Depression,Stress,Fatigue,,,
 Professor Chaos,1598,hybrid,Citrus,Pine,Pungent,Relaxed,Happy,Creative,Energetic,Uplifted,Dry Eyes,,,,,Depression,Insomnia,Pain,Stress,Headaches,
 Project Blue Book,1599,hybrid,Berry,Sweet,Earthy,Euphoric,Happy,Creative,Uplifted,Focused,Dry Mouth,Dry Eyes,Anxious,,,Depression,Pain,Stress,Inflammation,Muscle Spasms,
 Proper BHO Shatter,1600,indica,Butter,Woody,Berry,Relaxed,Euphoric,Creative,Energetic,Focused,Dry Mouth,Paranoid,Anxious,,,,,,,,
